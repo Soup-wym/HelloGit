@@ -12,6 +12,6 @@
 	out.println("hello world");
 	
 	 %>
-	 i am Daniel
+	 i am wym
 </body>
 </html>
